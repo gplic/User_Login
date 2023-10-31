@@ -1,0 +1,49 @@
+html{
+    background: url(userlogin-img/background.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+body{
+    width: 600px;
+    background: rgba(255, 255, 255, 0.8);
+    margin: 25px auto;
+    text-align: center;
+    padding: 25px 0 5px;
+    border-radius: 25px;
+    border: 2px solid purple;
+    font-family: montserrat;
+}
+
+.name {
+    margin: 15px;
+}
+
+div{
+    background-color: purple;
+    color: white;
+    padding: 30px;
+}
+
+.line {
+    line-height: 10px;
+}
+
+button{
+    background: green;
+    color: white;
+    font-size: 20px;
+    padding: 3px 15px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+    color: yellow;
+    text-decoration: underline;
+    transition: 1s;
+}
+img{
+    margin: 3px;
+}
